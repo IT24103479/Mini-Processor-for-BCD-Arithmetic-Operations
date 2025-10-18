@@ -1,4 +1,4 @@
-\# Test README
+# Test README
 
 This should render correctly on GitHub.
 
